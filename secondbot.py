@@ -48,4 +48,4 @@ async def Help(ctx):
     await ctx.channel.send('2)Еще информация = !protect')
     await ctx.channel.send('3)Сылки = !links')
 
-bot.run('MTEwNjI2MTU2ODE2Mjg5Mzk5Ng.GsEfLv.dXnp22dDFqMgdCJLoQFrz_tXKCPTcUX3Dt7iEs')
+bot.run('')
